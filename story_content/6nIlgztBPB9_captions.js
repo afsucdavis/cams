@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.49.24347.0%0D%0A%0D%0A00:00:00.256%20--%3E%2000:00:09.502%0D%0AOnce%20you%20know%20that%20a%20physical%20inventory%20is%20due,%20determine%20which%20custodial%20codes%20belong%20to%20your%20department%0D%0A%0D%0A"}')
